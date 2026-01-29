@@ -71,7 +71,7 @@
     "ipaddr.js": "^2.2.0",
     "lottie-react": "^2.4.0",
     "lucide-react": "0.439.0",
-    "next": "14.2.35",
+    "next": "15.5.10",
     "next-plausible": "^3.12.0",
     "next-seo": "^6.5.0",
     "next-themes": "^0.3.0",
